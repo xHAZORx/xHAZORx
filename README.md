@@ -1,4 +1,4 @@
-# Hi, I'm Bhavesh Kumar 👋
+# Hi, I'm Bhavesh👋
 
 🎮 Unity Developer | 🧪 Game QA Tester
 
